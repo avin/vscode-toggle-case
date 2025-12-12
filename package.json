@@ -3,6 +3,7 @@
   "publisher": "c75",
   "displayName": "toggle-case",
   "description": "Toggle selected text case based on its current casing.",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/avin/vscode-toggle-case"
